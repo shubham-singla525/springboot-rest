@@ -5,7 +5,7 @@ Added three endpoints:
 /api/students -> display a list of students    
 /api/students/{studentId}  -> display student based on id eg:1,2,3
 
-For endpoint 3 added exception handling too
+ Added exception handling too
 
 URL: [a link](http://ec2-52-64-82-46.ap-southeast-2.compute.amazonaws.com:8080/api/students)
 
